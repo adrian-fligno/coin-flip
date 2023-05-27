@@ -1,4 +1,4 @@
-Open [Coin Flip Game](https://coin-flip-i946og2pl-adrian-fligno.vercel.app/){:target="_blank" rel="noopener"} to view it in you browser
+Open [Coin Flip Game](https://coin-flip-git-main-adrian-fligno.vercel.app/){:target="_blank" rel="noopener"} to view it in you browser
 
 [Opens in new tab](https://external.ink?to=/placeholder.com)(:target="_blank" rel="noopener")
 <a href="https://external.ink?to=/placeholder.com" target="_blank">Opens in new tab</a>
