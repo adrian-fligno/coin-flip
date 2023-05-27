@@ -1,3 +1,5 @@
+Open [https://coin-flip-i946og2pl-adrian-fligno.vercel.app/](coin-flip) to view it in you browser
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
