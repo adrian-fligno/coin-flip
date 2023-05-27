@@ -1,4 +1,4 @@
-Open [https://coin-flip-i946og2pl-adrian-fligno.vercel.app/](coin-flip) to view it in you browser
+Open [Coin Flip Game](https://coin-flip-i946og2pl-adrian-fligno.vercel.app/) to view it in you browser
 
 # Getting Started with Create React App
 
